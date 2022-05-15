@@ -19,13 +19,13 @@
     public class DaoFactory{
         public UserDao userDao(){
             return new UserDao(new DConnectionMaker());
-        }
+        } 
         public AccountDao accountDao(){
             return new AccountDao(new DConnectionMaker());
-        }
+        }   
         public MessageDao messageDao(){
             return new MessageDao(new DConnectionMaker());
-        }
+        }      
    }
     ```
    * DConnectionMaker() 의 중복을 해결하기 위해 분리
@@ -36,13 +36,13 @@
         }
         public AccountDao accountDao(){
             return new AccountDao(connectionMaker());
-        }
+        }   
         public MessageDao messageDao(){
             return new MessageDao(connectionMaker());
-        }
+        }  
         public ConnectionMaker connectionMaker(){
-            return new DConnectionMaker();
-        }
+            return new DConnectionMaker();     
+        }    
    }
     ```
 ### 1.4.3. 제어권 이전을 통한 제어관계의 역전
