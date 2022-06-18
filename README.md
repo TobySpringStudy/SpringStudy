@@ -252,7 +252,7 @@
 | 창헌 | 소리 | 이한 | 초명 |  
 
 
-|[<img src="https://github.com/k1mjiho.png" width="80">](https://github.com/k1mjiho) | [<img src="https://github.com/jjyu9312.png" width="80">](https://github.com/jjyu9312) |[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj) | [<img src="https://github.com/oownus1.png" width="80">](https://github.com/oownus1) |  
-|:---:|:---:|:---:|:---:|
-| 지호 | 경욱 | 기서 | 선우 |  
+|[<img src="https://github.com/k1mjiho.png" width="80">](https://github.com/k1mjiho) | [<img src="https://github.com/jjyu9312.png" width="80">](https://github.com/jjyu9312) |[<img src="https://github.com/oownus1.png" width="80">](https://github.com/oownus1) |  
+|:---:|:---:|:---:|
+| 지호 | 경욱 | 선우 |  
 
