@@ -2,25 +2,25 @@
 
 ## 🍀 Toby's Spring Study
 ###### ✔  0. ~ 2022.05.01 19:40 ~ 20:30 : 스터디 일시, 진도 협의 & Setting
-###### ✔  1️. 2022.05.15(Sun) 21:00 ~ 22:20 1.1 초난감 DAO ~ 1.4 제어의 역전(Ioc)
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 2022.05.22(Sun) 21:00 ~ 23:00 1.5 ~ 1.8
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 2022.05.29(Sun) 21:00 ~ 23:00 2.1 ~ 2.3.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 2022.06.05(Sun) 21:00 ~ 23:00 2.3.4 ~ 2.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 2022.06.12(Sun) 21:00 ~ 23:00 3.1 ~ 3.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. 2022.06.19(Sun) 21:00 ~ 23:00 3.5 ~ 3.6
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 2022.06.26(Sun) 21:00 ~ 23:00 4.1 ~ 4.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 2022.07.03(Sun) 21:00 ~ 23:00 5.1 ~ 5.2.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 2022.07.10(Sun) 21:00 ~ 23:00 5.2.3 ~ 5.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07.17(Sun) 21:00 ~ 23:00 6.1 ~ 6.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. 2022.07.24(Sun) 21:00 ~ 23:00 6.4 ~ 6.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️2. 2022.08.07(Sun) 21:00 ~ 23:00 6.6 ~ 6.8
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️3. 2022.08.14(Sun) 21:00 ~ 23:00 7.1 ~ 7.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️4. 2022.08.21(Sun) 21:00 ~ 23:00 7.3 ~ 7.5
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️5. 2022.08.28(Sun) 21:00 ~ 23:00 7.6
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️6. 2022.09.04(Sun) 21:00 ~ 23:00 8.1 ~ 8.4
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️7. 2022.09.11(Sun) 21:00 ~ 23:00 9.1 ~ 9.2
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️8. 2022.09.18(Sun) 21:00 ~ 23:00 9.3
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️9. 2022.09.25(Sun) 책거리 (오프라인)
+###### ✔  1️. 2022.05.15(Sun) 21:00 ~ 22:20 : 1.1 초난감 DAO ~ 1.4 제어의 역전(Ioc)
+###### ✔  2. 2022.05.22(Sun) 21:00 ~ 22:10 : 1.5 스프링의 IoC ~ 1.8 XML을 이용한 설정
+###### ✔  3. 2022.05.29(Sun) 21:00 ~ 22:25 : 2.1 UserDaoTest 다시 보기 ~ 2.3 개발자를 위한 테스팅 프레임워크 JUnit
+###### ✔  4. 2022.06.05(Sun) 21:00 ~ 21:50 : 2.4 스프링 테스트 적용 ~ 2.5 학습 테스트로 배우는 스프링
+###### ✔  5. 2022.06.12(Sun) 21:00 ~ 21:40 : 3.2 변하는 것과 변하지 않는 것 ~ 3.3 JDBC 전략 패턴의 최적화
+###### ✔  6. 2022.06.19(Sun) 21:00 ~ 22:20 : 3.1 다시 보는 초난감 DAO, 3.4 컨텍스트와 DI ~ 3.6 스프링의 JdbcTemplate
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 2022.07.03(Sun) 21:00 ~ 23:00 : 4.1 사라진 SQLException ~ 4.2 예외 전환
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 2022.07.10(Sun) 21:00 ~ 23:00 : 5.1 사용자 레벨 관리 기능 추가 ~ 5.2.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 2022.07.17(Sun) 21:00 ~ 23:00 : 5.2.3 ~ 5.4 메일 서비스 추상화
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07.24(Sun) 21:00 ~ 23:00 : 6.1 트랜잭션 코드의 분리 ~ 6.3 다이내믹 프록시와 팩토리 빈
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. 2022.08.07(Sun) 21:00 ~ 23:00 : 6.4 스프링의 프록시 팩토리 빈 ~ 6.5 스프링 AOP
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️2. 2022.08.14(Sun) 21:00 ~ 23:00 : 6.6 트랜잭션 속성 ~ 6.8 트랜잭션 지원 테스트
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️3. 2022.08.21(Sun) 21:00 ~ 23:00 : 7.1 SQL과 DAO의 분리 ~ 7.2 인터페이스의 분리와 자기 참조 빈
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️4. 2022.08.28(Sun) 21:00 ~ 23:00 : 7.3 서비스 추상화 적용 ~ 7.5 DI를 이용해 다양한 구현 방법 적용하기
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️5. 2022.09.04(Sun) 21:00 ~ 23:00 : 7.6 스프링 3.1의 DI
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️6. 2022.09.11(Sun) 21:00 ~ 23:00 : 8.1 스프링의 정의 ~ 8.4 스프링의 기술
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️7. 2022.09.18(Sun) 21:00 ~ 23:00 : 9.1 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션 ~ 9.2 개발도구와 환경
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️8. 2022.09.25(Sun) 21:00 ~ 23:00 : 9.3 애플리케이션 아키텍처
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️9. 2022.10.02(Sun) 책거리 (오프라인)
 <br/>  
   
 ## 🍊 Handbook  
@@ -62,9 +62,9 @@
   - [3.1 다시 보는 초난감 DAO(경욱)](./handbook/Vol.1/03/3.1%20다시%20보는%20초난감%20DAO.md)  
   - [3.2 변하는 것과 변하지 않는 것(소리)](./handbook/Vol.1/03/3.2%20변하는%20것과%20변하지%20않는%20것.md)  
   - [3.3 JDBC 전략 패턴의 최적화(소리)](./handbook/Vol.1/03/3.3%20JDBC%20전략%20패턴의%20최적화.md)  
-  - [3.4 컨텍스트와 DI(성진)](./handbook/Vol.1/03/3.4%20컨텍스트와%20DI.md)  
-  - [3.5 템플릿과 콜백(성진)](./handbook/Vol.1/03/3.5%20템플릿과%20콜백.md)  
-  - [3.6 스프링의 JdbcTemplate(이한)](./handbook/Vol.1/03/3.6%20스프링의%20JdbcTemplate.md)  
+  - [3.4 컨텍스트와 DI(이한)](./handbook/Vol.1/03/3.4%20컨텍스트와%20DI.md)  
+  - [3.5 템플릿과 콜백(이한)](./handbook/Vol.1/03/3.5%20템플릿과%20콜백.md)  
+  - [3.6 스프링의 JdbcTemplate()](./handbook/Vol.1/03/3.6%20스프링의%20JdbcTemplate.md)  
   
 </div>
 </details>
@@ -73,8 +73,8 @@
 <summary>4장 예외</summary>
 <div markdown="1">       
   
-  - [4.1 사라진 SQLException(이한)](./handbook/Vol.1/04/4.1%20사라진%20SQLException.md)  
-  - [4.2 예외 전환(지현)](./handbook/Vol.1/04/4.2%20예외%20전환.md)  
+  - [4.1 사라진 SQLException(선우)](./handbook/Vol.1/04/4.1%20사라진%20SQLException.md)  
+  - [4.2 예외 전환(기서)](./handbook/Vol.1/04/4.2%20예외%20전환.md)  
   
 </div>
 </details>
@@ -83,10 +83,10 @@
 <summary>5장 서비스 추상화</summary>
 <div markdown="1">       
   
-  - [5.1 사용자 레벨 관리 기능 추가(지현)](./handbook/Vol.1/05/5.1%20사용자%20레벨%20관리%20기능%20추가.md)  
-  - [5.2 트랜잭션 서비스 추상화(선우)](./handbook/Vol.1/05/5.2%20트랜잭션%20서비스%20추상화.md)  
-  - [5.3 서비스 추상화와 단일 책임 원칙(선우)](./handbook/Vol.1/05/5.3%20서비스%20추상화와%20단일%20책임%20원칙.md)  
-  - [5.4 메일 서비스 추상화(경욱)](./handbook/Vol.1/05/5.4%20메일%20서비스%20추상화.md)  
+  - [5.1 사용자 레벨 관리 기능 추가(기서)](./handbook/Vol.1/05/5.1%20사용자%20레벨%20관리%20기능%20추가.md)  
+  - [5.2 트랜잭션 서비스 추상화(지호)](./handbook/Vol.1/05/5.2%20트랜잭션%20서비스%20추상화.md)  
+  - [5.3 서비스 추상화와 단일 책임 원칙(지호)](./handbook/Vol.1/05/5.3%20서비스%20추상화와%20단일%20책임%20원칙.md)  
+  - [5.4 메일 서비스 추상화(초명)](./handbook/Vol.1/05/5.4%20메일%20서비스%20추상화.md)  
   
 </div>
 </details>
@@ -95,14 +95,14 @@
 <summary>6장 AOP</summary>
 <div markdown="1">       
   
-  - [6.1 트랜잭션 코드의 분리(경욱)](./handbook/Vol.1/06/6.1%20트랜잭션%20코드의%20분리.md)  
-  - [6.2 고립된 단위 테스트(기서)](./handbook/Vol.1/06/6.2%20고립된%20단위%20테스트.md)  
-  - [6.3 다이내믹 프록시와 팩토리 빈(기서)](./handbook/Vol.1/06/6.3%20다이내믹%20프록시와%20팩토리%20빈.md)  
-  - [6.4 스프링의 프록시 팩토리 빈(지호)](./handbook/Vol.1/06/6.4%20스프링의%20프록시%20팩토리%20빈.md)  
-  - [6.5 스프링 AOP(지호)](./handbook/Vol.1/06/6.5%20스프링%20AOP.md)  
-  - [6.6 트랜잭션 속성(초명)](./handbook/Vol.1/06/6.6%20트랜잭션%20속성.md)  
-  - [6.7 애노테이션 트랜잭션 속성과 포인트컷(초명)](./handbook/Vol.1/06/6.7%20애노테이션%20속성과%20포인트컷.md)  
-  - [6.8 트랜잭션 지원 테스트(창헌)](./handbook/Vol.1/06/6.8%20트랜잭션%20지원%20테스트.md)  
+  - [6.1 트랜잭션 코드의 분리(초명)](./handbook/Vol.1/06/6.1%20트랜잭션%20코드의%20분리.md)  
+  - [6.2 고립된 단위 테스트(창헌)](./handbook/Vol.1/06/6.2%20고립된%20단위%20테스트.md)  
+  - [6.3 다이내믹 프록시와 팩토리 빈(창헌)](./handbook/Vol.1/06/6.3%20다이내믹%20프록시와%20팩토리%20빈.md)  
+  - [6.4 스프링의 프록시 팩토리 빈(경욱)](./handbook/Vol.1/06/6.4%20스프링의%20프록시%20팩토리%20빈.md)  
+  - [6.5 스프링 AOP(경욱)](./handbook/Vol.1/06/6.5%20스프링%20AOP.md)  
+  - [6.6 트랜잭션 속성(소리)](./handbook/Vol.1/06/6.6%20트랜잭션%20속성.md)  
+  - [6.7 애노테이션 트랜잭션 속성과 포인트컷(소리)](./handbook/Vol.1/06/6.7%20애노테이션%20속성과%20포인트컷.md)  
+  - [6.8 트랜잭션 지원 테스트(이한)](./handbook/Vol.1/06/6.8%20트랜잭션%20지원%20테스트.md)  
   
 </div>
 </details>
@@ -111,12 +111,12 @@
 <summary>7장 스프링 핵심 기술의 응용</summary>
 <div markdown="1">       
   
-  - [7.1 SQL과 DAO의 분리(창헌)](./handbook/Vol.1/07/7.1%20SQL과%20DAO의%20분리.md)  
-  - [7.2 인터페이스의 분리와 자기 참조 빈(민지)](./handbook/Vol.1/07/7.2%20인터페이스의%20분리와%20자기%20참조%20빈.md)  
-  - [7.3 서비스 추상화 적용(민지)](./handbook/Vol.1/07/7.3%20서비스%20추상화%20적용.md)  
-  - [7.4 인터페이스 상속을 통한 안전한 기능확장(소리)](./handbook/Vol.1/07/7.4%20인터페이스%20상속을%20통한%20안전한%20기능확장.md)  
-  - [7.5 DI를 이용해 다양한 구현 방법 적용하기(소리)](./handbook/Vol.1/07/7.5%20%DI를%20이용해%20다양한%20구현%20방법%20적용하기.md)  
-  - [7.6 스프링 3.1의 DI(성진)](./handbook/Vol.1/07/7.6%20스프링%203.1의%20.md)  
+  - [7.1 SQL과 DAO의 분리(이한)](./handbook/Vol.1/07/7.1%20SQL과%20DAO의%20분리.md)  
+  - [7.2 인터페이스의 분리와 자기 참조 빈(선우)](./handbook/Vol.1/07/7.2%20인터페이스의%20분리와%20자기%20참조%20빈.md)  
+  - [7.3 서비스 추상화 적용(선우)](./handbook/Vol.1/07/7.3%20서비스%20추상화%20적용.md)  
+  - [7.4 인터페이스 상속을 통한 안전한 기능확장(기서)](./handbook/Vol.1/07/7.4%20인터페이스%20상속을%20통한%20안전한%20기능확장.md)  
+  - [7.5 DI를 이용해 다양한 구현 방법 적용하기(기서)](./handbook/Vol.1/07/7.5%20%DI를%20이용해%20다양한%20구현%20방법%20적용하기.md)  
+  - [7.6 스프링 3.1의 DI(지호)](./handbook/Vol.1/07/7.6%20스프링%203.1의%20.md)  
   
 </div>
 </details>
@@ -125,10 +125,10 @@
 <summary>8장 스프링이란 무엇인가?</summary>
 <div markdown="1">       
   
-  - [8.1 스프링의 정의(성진)](./handbook/Vol.1/08/8.1%20스프링의%20정의.md)  
-  - [8.2 스프링의 목적(이한)](./handbook/Vol.1/08/8.2%20스프링의%20목적.md)  
-  - [8.3 POJO 프로그래밍(이한)](./handbook/Vol.1/08/8.3%20POJO%20프로그래밍.md)  
-  - [8.4 스프링의 기술(지현)](./handbook/Vol.1/08/8.4%20스프링의%20기술.md)  
+  - [8.1 스프링의 정의(지호)](./handbook/Vol.1/08/8.1%20스프링의%20정의.md)  
+  - [8.2 스프링의 목적(초명)](./handbook/Vol.1/08/8.2%20스프링의%20목적.md)  
+  - [8.3 POJO 프로그래밍(초명)](./handbook/Vol.1/08/8.3%20POJO%20프로그래밍.md)  
+  - [8.4 스프링의 기술(창헌)](./handbook/Vol.1/08/8.4%20스프링의%20기술.md)  
   
 </div>
 </details>
@@ -137,9 +137,9 @@
 <summary>9장 스프링 프로젝트 시작하기</summary>
 <div markdown="1">       
   
-  - [9.1 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션(지현)](./handbook/Vol.1/09/9.1%20자바%20엔터프라이즈%20플랫폼과%20스프링%20애플리케이션.md)  
-  - [9.2 개발도구와 환경(선우)](./handbook/Vol.1/09/9.2%20개발도구와%20환경.md)  
-  - [9.3 애플리케이션 아키텍처(선우)](./handbook/Vol.1/09/9.3%20애플리케이션%20아키텍처.md)  
+  - [9.1 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션(창헌)](./handbook/Vol.1/09/9.1%20자바%20엔터프라이즈%20플랫폼과%20스프링%20애플리케이션.md)  
+  - [9.2 개발도구와 환경(경욱)](./handbook/Vol.1/09/9.2%20개발도구와%20환경.md)  
+  - [9.3 애플리케이션 아키텍처(경욱)](./handbook/Vol.1/09/9.3%20애플리케이션%20아키텍처.md)  
   
 </div>
 </details>
@@ -247,12 +247,7 @@
   
 ## 🥝 Members  
 
-|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) | [<img src="https://github.com/plankton92.png" width="80">](https://github.com/plankton92) | [![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)| [<img src="https://github.com/seongjin3378.png" width="80">](https://github.com/seongjin3378) |  
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 창헌 | 소리 | 지현 | 이한 | 초명 | 성진 |  
-
-
-|[<img src="https://github.com/k1mjiho.png" width="80">](https://github.com/k1mjiho) | [<img src="https://github.com/jjyu9312.png" width="80">](https://github.com/jjyu9312) | [<img src="https://github.com/cameobc.png" width="80">](https://github.com/cameobc) | [<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj) | [<img src="https://github.com/oownus1.png" width="80">](https://github.com/oownus1) |  
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |[![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|  
 |:---:|:---:|:---:|:---:|:---:|
-| 지호 | 경욱 | 민지 | 기서 | 선우 |  
+| 창헌 | 소리 | 이한 | 초명 | 기서 |  
 
