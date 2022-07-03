@@ -8,7 +8,7 @@
 ###### ✔  4. 2022.06.05(Sun) 21:00 ~ 21:50 : 2.4 스프링 테스트 적용 ~ 2.5 학습 테스트로 배우는 스프링
 ###### ✔  5. 2022.06.12(Sun) 21:00 ~ 21:40 : 3.2 변하는 것과 변하지 않는 것 ~ 3.3 JDBC 전략 패턴의 최적화
 ###### ✔  6. 2022.06.19(Sun) 21:00 ~ 22:20 : 3.1 다시 보는 초난감 DAO, 3.4 컨텍스트와 DI ~ 3.6 스프링의 JdbcTemplate
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 2022.07.03(Sun) 21:00 ~ 23:00 : 4.1 사라진 SQLException ~ 4.2 예외 전환
+###### ✔  7. 2022.07.03(Sun) 21:00 ~ 22:10 : 4.1 사라진 SQLException ~ 4.2 예외 전환
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 2022.07.10(Sun) 21:00 ~ 23:00 : 5.1 사용자 레벨 관리 기능 추가 ~ 5.2.2
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 2022.07.17(Sun) 21:00 ~ 23:00 : 5.2.3 ~ 5.4 메일 서비스 추상화
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07.24(Sun) 21:00 ~ 23:00 : 6.1 트랜잭션 코드의 분리 ~ 6.3 다이내믹 프록시와 팩토리 빈
@@ -73,7 +73,7 @@
 <summary>4장 예외</summary>
 <div markdown="1">       
   
-  - [4.1 사라진 SQLException(선우)](./handbook/Vol.1/04/4.1%20사라진%20SQLException.md)  
+  - [4.1 사라진 SQLException(주현)](./handbook/Vol.1/04/4.1%20사라진%20SQLException.md)  
   - [4.2 예외 전환(기서)](./handbook/Vol.1/04/4.2%20예외%20전환.md)  
   
 </div>
@@ -247,7 +247,7 @@
   
 ## 🥝 Members  
 
-|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |[![](https://github.com/tpleehan.png?size=80)](https://github.com/tpleehan) |[![](https://github.com/DanielYY95.png?size=80)](https://github.com/DanielYY95)|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|  
-|:---:|:---:|:---:|:---:|:---:|
-| 창헌 | 소리 | 이한 | 초명 | 기서 |  
+|[![](https://github.com/leechun1095.png?size=80)](https://github.com/leechun1095)|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |[![](https://github.com/JuHyun419.png?size=80)](https://github.com/JuHyun419)|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|  
+|:---:|:---:|:---:|:---:|
+| 창헌 | 소리 | 기서 | 주현 |  
 
