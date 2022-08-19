@@ -247,7 +247,7 @@
   
 ## 🥝 Members  
 
-|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|[<img src="https://github.com/JuHyun419.png" width="80">](https://github.com/JuHyun419) |[<img src="https://github.com/Namgilu.png" width="80">](https://github.com/Namgilu)|[<img src="https://github.com/jsh0116.png" width="80">](https://github.com/jsh0116)|[<img src="https://github.com/JJongSue.png" width="80">](https://github.com/JJongSue)|[<img src="" width="80">]()|  
+|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|[<img src="https://github.com/JuHyun419.png" width="80">](https://github.com/JuHyun419) |[<img src="https://github.com/Namgilu.png" width="80">](https://github.com/Namgilu)|[<img src="https://github.com/jsh0116.png" width="80">](https://github.com/jsh0116)|[<img src="https://github.com/JJongSue.png" width="80">](https://github.com/JJongSue)|  
 |:---:|:---:|:---:|:---:|:---:|
 | 기서 | 주현 | 길우 | 승훈 | 종수 | 
 
