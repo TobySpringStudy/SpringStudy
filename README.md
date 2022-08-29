@@ -10,11 +10,11 @@
 ###### ✔  6. 2022.06.19(Sun) 21:00 ~ 22:20 : 3.1 다시 보는 초난감 DAO, 3.4 컨텍스트와 DI ~ 3.6 스프링의 JdbcTemplate
 ###### ✔  7. 2022.07.03(Sun) 21:00 ~ 22:10 : 4.1 사라진 SQLException ~ 4.2 예외 전환
 ###### ✔  8. 2022.07.17(Sun) 21:00 ~ 21:40 : 5.1 사용자 레벨 관리 기능 추가 ~ 5.2.2
-###### ✔ 9. 2022.07.17(Sun) 21:00 ~ 23:00 : 5.2.3 ~ 5.4 메일 서비스 추상화
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. 2022.07.24(Sun) 21:00 ~ 23:00 : 6.1 트랜잭션 코드의 분리 ~ 6.3 다이내믹 프록시와 팩토리 빈
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. 2022.08.07(Sun) 21:00 ~ 23:00 : 6.4 스프링의 프록시 팩토리 빈 ~ 6.5 스프링 AOP
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️2. 2022.08.14(Sun) 21:00 ~ 23:00 : 6.6 트랜잭션 속성 ~ 6.8 트랜잭션 지원 테스트
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️3. 2022.08.21(Sun) 21:00 ~ 23:00 : 7.1 SQL과 DAO의 분리 ~ 7.2 인터페이스의 분리와 자기 참조 빈
+###### ✔  9. 2022.07.17(Sun) 21:00 ~ 23:00 : 5.2.3 ~ 5.4 메일 서비스 추상화
+###### ✔ 10. 2022.07.24(Sun) 21:00 ~ 23:00 : 6.1 트랜잭션 코드의 분리 ~ 6.3 다이내믹 프록시와 팩토리 빈
+###### ✔ 11. 2022.08.14(Sun) 21:00 ~ 23:00 : 6.4 스프링의 프록시 팩토리 빈 ~ 6.5 스프링 AOP
+###### ✔ 1️2. 2022.08.21(Sun) 21:00 ~ 23:00 : 6.6 트랜잭션 속성 ~ 6.8 트랜잭션 지원 테스트
+###### ✔ 1️3. 2022.08.28(Sun) 21:00 ~ 23:00 : 7.1 SQL과 DAO의 분리 ~ 7.2 인터페이스의 분리와 자기 참조 빈
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️4. 2022.08.28(Sun) 21:00 ~ 23:00 : 7.3 서비스 추상화 적용 ~ 7.5 DI를 이용해 다양한 구현 방법 적용하기
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️5. 2022.09.04(Sun) 21:00 ~ 23:00 : 7.6 스프링 3.1의 DI
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1️6. 2022.09.11(Sun) 21:00 ~ 23:00 : 8.1 스프링의 정의 ~ 8.4 스프링의 기술
@@ -247,7 +247,7 @@
   
 ## 🥝 Members  
 
-|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|[<img src="https://github.com/JuHyun419.png" width="80">](https://github.com/JuHyun419) |[<img src="https://github.com/Namgilu.png" width="80">](https://github.com/Namgilu)|[<img src="https://github.com/jsh0116.png" width="80">](https://github.com/jsh0116)|[<img src="https://github.com/JJongSue.png" width="80">](https://github.com/JJongSue)|  
-|:---:|:---:|:---:|:---:|:---:|
-| 기서 | 주현 | 길우 | 승훈 | 종수 | 
+|[<img src="https://github.com/rlarltj.png" width="80">](https://github.com/rlarltj)|[<img src="https://github.com/JuHyun419.png" width="80">](https://github.com/JuHyun419) |[<img src="https://github.com/Namgilu.png" width="80">](https://github.com/Namgilu)|[<img src="https://github.com/jsh0116.png" width="80">](https://github.com/jsh0116)|[<img src="https://github.com/JJongSue.png" width="80">](https://github.com/JJongSue)| [<img src="https://github.com/truehong.png" width="80">](https://github.com/truehong) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 기서 | 주현 | 길우 | 승훈 | 종수 | 세진 |
 
